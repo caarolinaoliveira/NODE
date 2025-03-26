@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "inquirer": "^8.1.2"
   }
