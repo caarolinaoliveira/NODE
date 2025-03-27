@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_FUNDAMENTOS", "2_FUNDAMENTOS", "{3DA9E5EE-CC46-F932-E2E5-45A14E5F62F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18_testes_liv", "18_testes_liv", "{1EFA3227-EFF3-275D-0732-672DC4729BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#", "2_FUNDAMENTOS\18_testes_liv\c#\c#.csproj", "{728FEBA1-FBEB-755C-1EB1-7A6A02006EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728FEBA1-FBEB-755C-1EB1-7A6A02006EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728FEBA1-FBEB-755C-1EB1-7A6A02006EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728FEBA1-FBEB-755C-1EB1-7A6A02006EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728FEBA1-FBEB-755C-1EB1-7A6A02006EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EFA3227-EFF3-275D-0732-672DC4729BE4} = {3DA9E5EE-CC46-F932-E2E5-45A14E5F62F3}
+		{728FEBA1-FBEB-755C-1EB1-7A6A02006EFC} = {1EFA3227-EFF3-275D-0732-672DC4729BE4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BAB57A-A5D1-4EAD-8FA9-DC157D5E19D2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/bin/Debug/net8.0/c#
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/bin/Debug/net8.0/c#.deps.json
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/bin/Debug/net8.0/c#.dll
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/bin/Debug/net8.0/c#.pdb
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.sourcelink.json
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.dll
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/refint/c#.dll
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.pdb
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/workspaces/NODE/2_FUNDAMENTOS/18_testes_liv/c#/obj/Debug/net8.0/ref/c#.dll

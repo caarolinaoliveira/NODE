@@ -1,0 +1,43 @@
+// 0 1 1 2 3 5
+
+function fibonacci(n){
+    var fib = [ 0, 1];
+    for(var i =2; i<n; i ++){
+        fib[i] = fib[i-1] + fib [ i -2]
+    }
+
+    return fib.join(' ');
+}
+console.log(fibonacci(10))
+
+
+// var a = 0;
+// var b =1;
+// var c ; 
+
+// console.log(a);
+// console.log(b);
+
+// function fibonacci2(n){
+//     for(var i = 2; i <n; i++){
+//         c = a + b ;
+//         a =b;
+//         b = c;
+//         console.log(c)
+//     }
+// }
+
+// fibonacci2(10)
+
+
+// -------------
+
+function fibonacci3(n){
+    var fib = [0, 1]
+    for (var i = 2; i<n; i++ ){
+        fib [i] = fib[i-1] + fib[i-2];
+    }
+    return fib.join(' ')
+}
+
+console.log(fibonacci3(10))

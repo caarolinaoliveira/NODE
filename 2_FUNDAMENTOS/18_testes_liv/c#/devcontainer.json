@@ -1,0 +1,11 @@
+{
+    "name": "C# (.NET)",
+    "image": "mcr.microsoft.com/dotnet/sdk:5.0",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "ms-dotnettools.csharp"
+    ],
+    "postCreateCommand": "dotnet restore"
+  }
